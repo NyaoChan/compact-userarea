@@ -34,10 +34,10 @@
 }
 
 .platform-win .container_b2ca13 {
-  top: 30px !important;
+  top: 24px !important;
 }
 .platform-win .guilds_a4d4d9 {
-  margin-top: 72px;
+  margin-top: 0px;
 }
 
 .platform-osx .container_b2ca13 {
@@ -66,6 +66,7 @@
   min-width: unset;
   padding: unset;
   margin: unset;
+  left: 64px;
 }
 #app-mount .container_b2ca13 .avatarWrapper_b2ca13:hover {
   background-color: transparent;
