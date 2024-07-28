@@ -28,6 +28,11 @@
     transform: translateX(-4px);
   }
 }
+
+:root{
+  --avatar-size: 48px;
+}
+
 .platform-win .container_b2ca13 {
   top: 30px !important;
 }
@@ -57,7 +62,6 @@
 }
 
 #app-mount .container_b2ca13 .avatarWrapper_b2ca13 {
-  --avatar-size: 48px;
   position: relative;
   min-width: unset;
   padding: unset;
