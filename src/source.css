@@ -66,7 +66,7 @@
   min-width: unset;
   padding: unset;
   margin: unset;
-  left: 64px;
+  left: 60px;
 }
 #app-mount .container_b2ca13 .avatarWrapper_b2ca13:hover {
   background-color: transparent;
@@ -122,8 +122,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  width: 75px;
-  max-width: 75px;
+  width: 96px;
+  max-width: 96px;
   height: 40px;
   padding: 4px;
   padding-left: 10px;
@@ -179,6 +179,10 @@
 }
 #app-mount .panels_a4d4d9:has(.container_b2ca13 .avatar_b2ca13:hover), #app-mount .panels_a4d4d9:has(.container_b2ca13 .avatarWrapper_b2ca13:hover), #app-mount .panels_a4d4d9:has(.container_b2ca13 .flex_bba380:hover) {
   z-index: 1004;
+}
+#app-mount .tutorialContainer_f9623d{
+  width: 64px;
+  z-index: 3;
 }
 #app-mount .panels_a4d4d9:has(.container_b2ca13 .avatar_b2ca13:hover) .flex_bba380,
 #app-mount .panels_a4d4d9:has(.container_b2ca13 .avatar_b2ca13:hover) .nameTag_b2ca13,
