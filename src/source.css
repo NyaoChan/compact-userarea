@@ -74,18 +74,6 @@
   width: var(--avatar-size) !important;
   height: var(--avatar-size) !important;
 }
-#app-mount .container_b2ca13 .avatarWrapper_b2ca13 .avatar_b2ca13::after {
-  content: "";
-  display: block;
-  position: relative;
-  pointer-events: none;
-  top: calc(100% + 8px);
-  width: calc(100% - 16px);
-  height: 2px;
-  margin: auto;
-  border-radius: 1px;
-  background-color: var(--background-modifier-accent);
-}
 #app-mount .container_b2ca13 .avatarWrapper_b2ca13 .avatar_b2ca13 .mask_c51b4e {
   width: var(--avatar-size) !important;
   height: var(--avatar-size) !important;
